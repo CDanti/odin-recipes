@@ -1,0 +1,29 @@
+img{
+    height: auto; 
+    width: 200px;
+}
+
+.ingredients{
+    border: solid;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.title{
+    text-align: center;
+    color: white;
+}
+
+.intro{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+.note{
+    font-style: italic;
+}
+
+
