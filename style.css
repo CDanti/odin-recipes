@@ -3,17 +3,22 @@ img{
     width: 200px;
 }
 
+.index-list{
+    font-size: 18px;
+    /* color:red; */
+}
+
 .ingredients{
     border: solid;
     background-color: white;
     border-radius: 10px;
-    padding-left: 5px;
+    padding-left: 10px;
     padding-right: 5px;
+    margin: 12px;
 }
 
 .title{
     text-align: center;
-    color: white;
 }
 
 .intro{
